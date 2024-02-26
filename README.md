@@ -2,9 +2,7 @@
 
 R packages needed: `pacman`, `stringr`, `kml3d`, `dplyr`
 
-Commands to install them in from shell:
-
-`R`
+Commands to install them in from R shell:
 
 `install.packages("pacman", dependencies = TRUE)`
 
